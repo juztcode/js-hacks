@@ -8,7 +8,7 @@ Small library that can be used to filter XMLHttpRequest based on the hostname.
 ## How to add?
 * Add link to the html file
 ```html
-<script src="https://cdn.jsdelivr.net/gh/juztcode/js-hacks/http-filter/http-filter@0.0.1/src/http-filter.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/juztcode/js-hacks/http-filter/http-filter.js"></script>
 ```
 
 * Initialize with accepted hostname list and match type ('exact', 'partial')
